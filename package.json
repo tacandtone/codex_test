@@ -1,0 +1,11 @@
+{
+  "name": "ios-iframe-app",
+  "version": "1.0.0",
+  "private": true,
+  "main": "App.js",
+  "dependencies": {
+    "react": "18.2.0",
+    "react-native": "0.72.3",
+    "react-native-webview": "11.29.0"
+  }
+}
